@@ -2,7 +2,7 @@
 
 ## 书籍介绍
 * 作者：John E. Straub
-* 出版社：Steuben Press·Longmont, Colorado
+* ISBN：-
 * 阅读难度：⭐️⭐️
 * 推荐指数：⭐️⭐️⭐️⭐️⭐️
 * 建议先修：无
